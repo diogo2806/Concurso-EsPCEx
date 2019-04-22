@@ -1,0 +1,441 @@
+{
+  "country": [
+
+    {
+      "name": "Edital",
+      "image":"",
+      "dishes": [
+        {
+          "dishname": "Edital",
+          "image":"",
+          "description":"https://docs.google.com/gview?embedded=true&url=https://admin.folhadirigida.com.br/filemanager/files/concursos/Edital_ESA_2019.pdf"
+
+        },
+        {
+          "dishname": "Vídeo do Edital",
+          "image":"",
+          "description":"https://youtu.be/kwYS82PpRwM"
+        }
+
+      ]
+    },{
+      "name": "Preparatório EsSA 2019",
+      "image":"",
+      "dishes": [
+        {
+          "dishname": "Elite Mil - Preparatório EsSA 2019",
+          "image":"",
+          "description":"https://go.hotmart.com/T13174584J"
+
+        },
+        {
+          "dishname": "Plano de Estudo Definitivo",
+          "image":"",
+          "description":"https://go.hotmart.com/B13150104V"
+        }
+
+      ]
+    },
+    {
+      "name": "Matemática",
+      "image":"",
+      "dishes": [
+        {
+          "dishname": "Conjuntos",
+          "image":"",
+          "description": "https://www.youtube.com/playlist?list=PL83s8LGM84J5LAVfgxdZ08tGwB0ai1-XC"
+        },
+        {
+          "dishname": "Funções",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLTPg64KdGgYiYqKmotPzPJVchCwKpTLzm"
+        },
+        {
+          "dishname": "Função Afim",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLTPg64KdGgYjMtxN9pJGBaenIRwNX1EtI"
+
+        },
+        {
+          "dishname": "Função Quadrática",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLTPg64KdGgYjXe1Gcc6ji-juawdTSouUU"
+
+        },
+        {
+          "dishname": "Função exponencial",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLTPg64KdGgYhllRJbaGMQGRa-3-3RNGzb"
+
+        },
+        {
+          "dishname": "Função Logarítmica",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLSkzgVtT7DHf7wcBMshSarJ7aUz3BdCKU"
+
+        },
+        {
+          "dishname": "Trigonometria",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLf1lowbdbFIDyVckJbycSHH4FVwdOc2Gd"
+
+        },
+        {
+          "dishname": "Análise combinatória e Probabilidade",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLvLkxtdUefNxD2Rr4wXcJVBB8Q0ZMaGaU"
+
+        },
+        {
+          "dishname": "Noções de estatística",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PL-7DL7BmpqH8Dfr9rlFV02eKzqrE0kVRu"
+
+        },
+        {
+          "dishname": "Sequências numéricas",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PL77A9D10A5A775C58"
+
+        },
+        {
+          "dishname": " Matriz, determinante e sistema linear",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLf1lowbdbFICd6CcabD20iivJrgvPa4JC"
+
+        },
+        {
+          "dishname": "Geometria plana",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLTPg64KdGgYhy8stGM4z2_Hzb3zTfA77Z"
+
+        },
+        {
+          "dishname": "Geometria espacial",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLvLkxtdUefNyOiz4-nlxnBJ6Au0_sWedw"
+
+        },
+        {
+          "dishname": "Geometria Analítica",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLB7242F99B0310710"
+
+        },
+        {
+          "dishname": "Polinômios",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLf1lowbdbFIARw1DH7m9LoHlB-ViTphWN"
+
+        },
+        {
+          "dishname": "Equações polinomiais",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLohQJUEQajR7GrGmcM7uiflttAHcCYbPj"
+
+        },
+        {
+          "dishname": "Números Complexos",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLf1lowbdbFICGQ1jB9QnM4faQ3Scmh8Q8"
+
+        }
+
+      ]
+    },
+    {
+      "name": "Português",
+      "image":"",
+      "dishes": [
+        {
+          "dishname": " Leitura e interpretação de textos",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLcydzE21awatlPhVA4Lo2Oz8itRGSrb0Y"
+
+        },
+        {
+          "dishname": "Análise de textos",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PL5142CEB546572AC5"
+
+        },
+        {
+          "dishname": "Fonética",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLh21eKVYFpo9XQlFYoil3NOK8lBFjCVn7"
+
+        },
+        {
+          "dishname": "Ortografia",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PL4LbiOj8tEga-B7Xm6R49GOBsQm505SfD"
+
+        },
+        {
+          "dishname": "Acentuação",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLlvZlKOiyoz2egxfFgRr36kpj95gkvmHr"
+
+        },
+        {
+          "dishname": "Pontuação",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLhTKk53U8pNksn274-gblxVFbMpQm4r41"
+
+        },
+        {
+          "dishname": "Morfologia",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLbkkgbNTeH5pmK7lD9cXXqqGSEdW41Wid"
+
+        },
+        {
+          "dishname": "Análise Sintática I",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLWvVzAmdfgB_2Lnf69KhN7SJq6OFbVSdK"
+
+        },
+        {
+          "dishname": "Análise Sintática II",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLBL2uZ3OHznEflLY6vbX1itWjsdWqXD4o"
+
+        },
+        {
+          "dishname": "Análise Sintática III",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLj5iEf4f-lufHQw50JmqM1zi7uqFUARDz"
+
+        },
+        {
+          "dishname": "Análise Sintática IV",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLj5iEf4f-lucyhcJT3Dyx0cDrMUirXGlH"
+
+        },
+        {
+          "dishname": "Análise Sintática V",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLBL2uZ3OHznGwXTjyAqF4mnOwOZYr1wbb"
+
+        },
+        {
+          "dishname": " Teoria da linguagem",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLgIWHtlPYF83Y3dRPRWxKtx9R26lHpk04"
+
+        },
+        {
+          "dishname": "Semântica",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLepK8tSeoqUbxU1vvSBXD0kLui63jjfhN"
+
+        },
+        {
+          "dishname": "Literatura",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLF2J-8QoLzYGJ2STvIn825Si70rNVnGyM"
+
+        },
+        {
+          "dishname": "Redação e Noções de versificação",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PL-cWjvjoSJcc2N_u2rFQNerc6K_aBqfbS"
+
+        },
+        {
+          "dishname": "Acordo Ortográfico da Língua Portuguesa",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLaXGGxJIwz6CKtl8wOC8NO2GL87Xak-ih"
+
+        }
+      ]
+    },
+    {
+      "name": "História",
+      "image":"",
+      "dishes": [
+        {
+          "dishname": " A expansão Ultramarina Européia",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLNEgR_3wVVHXkmuu9oCZ4sOiYpBzPFUiT"
+
+        },
+        {
+          "dishname": "Brasil Colonial I",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLxI8Can9yAHcBEu81oZa84rTzUW-IqId4"
+
+        },
+        {
+          "dishname": "Brasil Colonial II",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PL7E0137A3C2B91E82"
+
+        },
+        {
+          "dishname": "Período Joanino e Independência",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLIokx6YTzqBFR7101E_78X_s8aKdVqDZQ"
+
+        },
+        {
+          "dishname": "Primeiro Reinado",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLIokx6YTzqBEBuaFPQLThBNDIUeWeKlZf"
+
+        },
+        {
+          "dishname": "Período Regencial",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLq6paDC4REmrp9G6W2xCbHPA4WN4UAxGL"
+
+        },
+        {
+          "dishname": "Segundo Reinado",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLh-HVvGzRww5_-ZBwUT-oHGsNW48LG2NB"
+
+        },
+        {
+          "dishname": "Velha Repubica",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLIokx6YTzqBH7FrXzdApNaDY60ymw_OeL"
+
+        },
+        {
+          "dishname": "Força Expedicionária Brasileira",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLxNgKau22TqHnaEZrHM_vxJBYeZ0FAPVv"
+
+        }
+
+      ]
+    },    {
+      "name": "Geografia",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Geografia (1ª Opção)",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLh-pzm2_vyyxhb1FiBSyr2LieC35OJd88"
+
+        },
+        {
+          "dishname": "Geografia (2ª Opção)",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLMepKmqIOBovgvBepbak8d041FcoqbxMg"
+
+        },
+        {
+          "dishname": "Geografia (3ª Opção)",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLF2J-8QoLzYFTIQzp0mdViETh0_dFXa-E"
+
+        }
+
+      ]
+    },    {
+      "name": "Inglês",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Inglês (1ª Opção)",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLbOQnpBC1Pg8FOt-eYI7dQf6iN05B-9Mq"
+
+        },
+        {
+          "dishname": "Inglês (2ª Opção)",
+          "image":"",
+          "description":"https://www.youtube.com/playlist?list=PLbOQnpBC1Pg8FOt-eYI7dQf6iN05B-9Mq"
+
+        }
+
+      ]
+    },    {
+      "name": "Simulado",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Qconcursos",
+          "image":"",
+          "description":"https://www.qconcursos.com/questoes-militares/institutos/essa"
+
+        }
+
+      ]
+    },    {
+      "name": "Apostilas de Português",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Questões de Morfossintaxe",
+          "image":"",
+          "description":"https://drive.google.com/open?id=1tQ5z5bi_FXfWPp8BuuvQCeQosFv4Gc4d "
+
+        },
+        {
+          "dishname": "Português Esquematizado",
+          "image":"",
+          "description":"https://drive.google.com/open?id=0B7r6H5kDP3S8aXhmamkxQlFVTWs"
+
+        },
+        {
+          "dishname": "Mil questões de Português",
+          "image":"",
+          "description":"https://drive.google.com/open?id=0BwrvIviOrZJCRTZ0eTdhM3VZdTg"
+
+        },
+        {
+          "dishname": "900 Questões de gramática",
+          "image":"",
+          "description":"https://drive.google.com/open?id=0BwrvIviOrZJCTVphaGdocTlVb0E"
+
+        },
+        {
+          "dishname": "ERROs mais comuns",
+          "image":"",
+          "description":"https://mega.nz/#!b81mXaiK!YTyVRAMGRV47tofry0fZQKf1eGuWQUaPZIYBvRJo-JM"
+
+        },
+        {
+          "dishname": "Só Questões",
+          "image":"",
+          "description":"https://mega.nz/#!35kQzK6Z!7LXuHk8GNHYXpBZNzb7Vgqs1UZjOa_vR6kgDBTCLwkE"
+
+        },
+        {
+          "dishname": "126 Pegadinhas",
+          "image":"",
+          "description":"https://mega.nz/#!u8k23KSC!mcCK1RTt7S9ezBIq91ehIkovqO9iNSP4u1Vn6m07vqc"
+
+        },
+        {
+          "dishname": "Questões Comentadas",
+          "image":"",
+          "description":"https://mega.nz/#!PolkTKqL!g6EnftHW2DOzZPp3EZsHEhxN_GcCUlZ2DgNY3EKGtZA"
+
+        },
+        {
+          "dishname": "12 MIL questões",
+          "image":"",
+          "description":"https://mega.nz/#F!e80WGI6D!KfQx1FzDp6unuy6G2Sjc8w"
+
+        },
+        {
+          "dishname": "Português Descomplicado",
+          "image":"",
+          "description":"https://mega.nz/#!jlk2xSRI!ipOSZVkrg65lL7njPcAU6dQXgkmxSv4yBNQZdKJG5tU"
+
+        }
+
+      ]
+    }
+
+  ]
+}
