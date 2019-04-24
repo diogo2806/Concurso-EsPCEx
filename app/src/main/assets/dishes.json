@@ -374,6 +374,19 @@
 
       ]
     },    {
+      "name": "Correções de Provas Anteriores",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Canal do Diego Tavares",
+          "image":"",
+          "description":"https://www.youtube.com/channel/UCtCORdKM_zRthEPwqH1r8aw"
+
+        }
+
+      ]
+    },    {
       "name": "Apostilas",
       "image":"",
       "dishes": [
@@ -382,6 +395,36 @@
           "dishname": "Apostilas",
           "image":"",
           "description":"http://bit.ly/2KTpoIq"
+
+        },
+         {
+          "dishname": "ESA DECEx",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1Ifeqjs1XCWfcd-fnV6WuqXTIQ1LTTW_C/view?usp=drivesdk"
+
+        },
+         {
+          "dishname": "Assuntos mais cobrados de geografia",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1E__XJ77CqMKFd1AIWHLmxoOnR8LSA4uI/view?usp=drivesdk"
+
+        },
+         {
+          "dishname": "Assuntos mais cobrados de história",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1_vMzqsVenIFTJ4Uda9s7jid3ItWN4J0Y/view?usp=drivesdk"
+
+        },
+         {
+          "dishname": "Assuntos mais cobrados na ESA de português",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1nm5O-wZ6yMNxjTrtp-uzDZM4eFrIS_DT/view?usp=drivesdk"
+
+        },
+         {
+          "dishname": "Apostila EsSA",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1UgA-Ar7CRPmK_X2pgSj7HtC3P0Pf2CTR/view?usp=drivesdk"
 
         }
 
@@ -463,6 +506,34 @@
           "image":"",
           "description":"https://mega.nz/#!jlk2xSRI!ipOSZVkrg65lL7njPcAU6dQXgkmxSv4yBNQZdKJG5tU"
 
+        },
+        {
+          "dishname": "25 temas de redação",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1DkPxeWjrcHI4m3FitzUSRYjrhULrreNb/view?usp=drivesdk"
+
+        }
+
+      ]
+    },    {
+      "name": "Apostilas de Matemática",
+      "image":"",
+      "dishes": [
+
+        {
+          "dishname": "Estatísticas",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1Htkmm4TNcpcLo0BBqnECMYkf3B8-KDdu/view?usp=drivesdk"
+        },
+        {
+          "dishname": "Probabilidade",
+          "image":"",
+          "description":"https://drive.google.com/file/d/1GT2g8Ea7wRgfmUPnnaNQcZ1nIEEgFBpw/view?usp=drivesdk"
+        },
+        {
+          "dishname": "500 Questões Resolvidas",
+          "image":"",
+          "description":"https://drive.google.com/file/d/121hoak3EZJ0n7N3XkirP-q8ecqB6QO2q/view?usp=drivesdk"
         }
 
       ]
